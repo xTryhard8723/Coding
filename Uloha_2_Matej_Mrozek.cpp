@@ -78,7 +78,6 @@ int main() {
                 x = y;
                 y = z;
 
-                cout << x << " and " << y << ".";
                 print(to_string(x) + " and " + to_string(y) + ".");
 
                 break;
